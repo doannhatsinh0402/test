@@ -48,4 +48,4 @@ void NhapLop(HS A[], int n)
         NhapThongTinHS(A[i]);
     }
 }
-// abc efgh
+//thu cai nhe lan 2 neh
